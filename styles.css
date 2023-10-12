@@ -6,3 +6,15 @@
   translate: -50% -50%;
   background: url("background.png");
 }
+
+#beetlemorph,
+#rhinomorph,
+#eaglemorph,
+#squidmorph,
+#enemyProjectile,
+#player,
+#player_jets,
+#boss,
+#boss8 {
+  display: none;
+}
